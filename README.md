@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Swetha 👋
 
-<!--
-**swethaprakash95/swethaprakash95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Interested in software development and cybersecurity.
+* Learning Python, SQL, and web development.
+* Building projects to improve my technical skills.
+* Preparing for opportunities in the IT industry.
+
+## Skills
+
+* Programming: Python
+* Database: SQL, DBMS
+* Web: HTML, CSS
+* Tools: Git, GitHub
+
+## Current Goals
+
+* Improve problem-solving skills.
+* Build practical coding projects.
+* Learn Git and GitHub.
+* Develop a professional project portfolio.
